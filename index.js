@@ -24,7 +24,12 @@ return facts;
 
 function iLoveTheBeatles(numb) {
   empty = [];
-  
+  do {
+    
+  }
+  while () {
+    
+  }
 }
 
 
