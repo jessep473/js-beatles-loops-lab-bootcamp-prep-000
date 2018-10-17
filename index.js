@@ -14,8 +14,10 @@ function johnLennonFacts(facts) {
   "He hated the sound of his own voice"
 ];
 while (i < facts.length) {
-  push
+  push(facts[i] + '!!!');
+  i++;
 }
+
 }
 
 
