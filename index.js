@@ -22,6 +22,11 @@ while (i < facts.length) {
 return facts;
 }
 
+function iLoveTheBeatles(numb) {
+  empty = [];
+  
+}
+
 
 
 
