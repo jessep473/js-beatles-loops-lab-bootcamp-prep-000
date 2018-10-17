@@ -22,15 +22,17 @@ while (i < facts.length) {
 return facts;
 }
 
-function iLoveTheBeatles(numb) {
+function iLoveTheBeatles(numb) { 
   empty = [];
   do {
+    empty.push('I love the beatles')
+  }
+  while (){
     
   }
-  while () {
     
   }
-}
+
 
 
 
