@@ -13,8 +13,8 @@ function johnLennonFacts(facts) {
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
-while (i = 0; i < facts.length; i++) {
-  
+while (i < facts.length) {
+  push
 }
 }
 
