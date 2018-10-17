@@ -4,6 +4,9 @@ function theBeatlesPlay(mus, inst) {
     array.push(mus[i] + 'plays' + inst[i]);
     return array;
   }
+}
+
+function johnLennonFacts(facts) {
   
 }
 
