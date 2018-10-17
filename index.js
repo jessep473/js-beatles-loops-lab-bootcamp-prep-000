@@ -17,7 +17,7 @@ while (i < facts.length) {
   push(facts[i] + '!!!');
   i++;
 }
-
+return facts;
 }
 
 
